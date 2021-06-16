@@ -5,6 +5,7 @@
 
 Thumbs.db
 Thumbs.db:encryptable
+instance/database.db
 
 #NPM files
 /node_modules
@@ -147,4 +148,3 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-backend
